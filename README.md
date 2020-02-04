@@ -1,6 +1,10 @@
 # codetut1_fl
 
 A new Flutter project.
+- To create a lazily loaded list
+- Add icons to the list
+- Add interactivity
+- Navigate to a new screen
 
 ## Getting Started
 
